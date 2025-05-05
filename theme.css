@@ -1,0 +1,8 @@
+@import "tailwindcss";
+input[type="text"] {
+    text-transform: uppercase;
+}
+#gradingDropdown {
+    transform-origin: top;
+}
+  
